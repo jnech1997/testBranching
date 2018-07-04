@@ -1,2 +1,2 @@
 # testBranching
-a repo to better understand how branching works
+a repo to master the fundamentals of branching and merging
